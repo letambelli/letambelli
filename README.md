@@ -9,7 +9,7 @@ Sou estudante de Ciência de Dados e IA e busco desenvolver meus conhecimentos e
 **Ferramentas de Desenvolvimento:** Git, GitHub, Jupyter Notebook, Visual Studio Code
 **Ferramentas Office:** Power BI, Excel
 
-## Me encontre ao redor do mundo 🌎
+## Meus Contatos
 
 <div> 
   <a href="https://www.linkedin.com/in/letambelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
