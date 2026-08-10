@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Letícia!
+## 👋 Olá, eu sou **Letícia Tambelli**!
 
 Sou estudante de Ciência de Dados e IA e busco desenvolver meus conhecimentos e projetos na área de dados, transformando informações em insights e soluções que apoiem a tomada de decisões.
 
