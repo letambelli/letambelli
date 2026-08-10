@@ -5,8 +5,11 @@ Sou estudante de Ciência de Dados e IA e busco desenvolver meus conhecimentos e
 ### Tecnologias & Ferramentas
 
 **Linguagens:** Python e R
+
 **Bancos de Dados:** SQL, MySQL, MongoDB
+
 **Ferramentas de Desenvolvimento:** Git, GitHub, Jupyter Notebook, Visual Studio Code
+
 **Ferramentas Office:** Power BI, Excel
 
 ## Meus Contatos
